@@ -6,4 +6,4 @@
 
 💬 Thanks for checking out my profile! If you have any questions or would like to collaborate, don't hesitate to contact me. Additionally, I'm always eager to learn new things, so feel free to share your knowledge with me.
 
-📫 You can reach me at <a href="mailto:kp.khantkhant@gmail.com">here</a> or connect with me on <a href="https://www.linkedin.com/in/kyiphyu-khant/">linkedin</a> and <a href="https://twitter.com/kyiphyukhant">twitter</a>
+📫 You can reach me at <a href="mailto:kp.khantkhant@gmail.com">here</a> or connect with me on <a href="https://www.linkedin.com/in/kyiphyu-khant/">linkedin</a> and <a href="https://twitter.com/kyiphyukhant">twitter</a>.
