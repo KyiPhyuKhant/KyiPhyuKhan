@@ -1,9 +1,34 @@
-👋 Hi there, I'm Kyi!
+<h1 align="center">Hi 👋, I'm Kyi Phyu Khant</h1>
+<h3 align="center">A passionate frontend/Web developer</h3>
 
-👨‍💻 I'm a Front-End developer with 9+ years of experience in developing website layouts, visual appearance, and content formatting. My expertise lies in dynamic website production and responsive web development, as well as troubleshooting software bugs and integrating systems to meet clients' needs. I also review code to ensure it meets industry and company standards and is compatible with all major browsers, devices, and operating systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyiphyukhant&label=Profile%20views&color=0e75b6&style=flat" alt="kyiphyukhant" /> </p>
 
-🚀 I am always eager to expand my skillset and stay up-to-date with the latest technologies. Currently, I am learning ReactJS and improving my skills in User Experience (UX) design.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyiphyukhant" alt="kyiphyukhant" /></a> </p>
 
-💬 Thanks for checking out my profile! If you have any questions or would like to collaborate, don't hesitate to contact me. Additionally, I'm always eager to learn new things, so feel free to share your knowledge with me.
+<p align="left"> <a href="https://twitter.com/kyiphyukhant" target="blank"><img src="https://img.shields.io/twitter/follow/kyiphyukhant?logo=twitter&style=for-the-badge" alt="kyiphyukhant" /></a> </p>
 
-📫 You can reach me at <a href="mailto:kp.khantkhant@gmail.com">here</a> or connect with me on <a href="https://www.linkedin.com/in/kyiphyu-khant/">linkedin</a> and <a href="https://twitter.com/kyiphyukhant">twitter</a>.
+- 🌱 I’m currently learning **React js, Tailwind css and vue js**
+
+- 📫 How to reach me **kp.khantkhant@gmail.com**
+
+- ⚡ Fun fact **I have 2 cats**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kyiphyukhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyiphyukhant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kyi phyu khant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyi phyu khant" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9482702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9482702" height="30" width="40" /></a>
+<a href="https://fb.com/kyi phyu khant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyi phyu khant" height="30" width="40" /></a>
+<a href="https://instagram.com/kyi phyu khant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyi phyu khant" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yurakhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yurakhant" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khant_khant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khant_khant" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyiphyukhant&show_icons=true&locale=en&layout=compact" alt="kyiphyukhant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyiphyukhant&show_icons=true&locale=en" alt="kyiphyukhant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyiphyukhant&" alt="kyiphyukhant" /></p>
