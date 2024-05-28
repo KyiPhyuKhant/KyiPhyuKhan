@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React js, Tailwind css and vue js<br>📫 How to reach me kp.khantkhant@gmail.com<br>⚡ Fun fact I have 2 cats
+🌱 I’m currently learning React js, and vue js<br>📫 How to reach me kp.khantkhant@gmail.com<br>⚡ Fun fact I have 2 cats
 
 
 ## 🌐 Socials:
