@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React js, and vue js<br>⚡ Fun fact I have 2 cats
+🌱 I’m currently learning React js<br>⚡ Fun fact I have 2 cats
 
 
 ## 🌐 Socials:
