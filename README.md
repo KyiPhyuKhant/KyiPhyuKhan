@@ -8,10 +8,9 @@
 
 
 ## 📊 GitHub Stats:
-![Kyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyiphyukhant&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyiphyukhant&layout=compact&theme=radical)
+![KyiPhyuKhant's Stats](https://github-readme-stats.vercel.app/api?username=KyiPhyuKhant&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
+![KyiPhyuKhant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiPhyuKhant&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyiphyukhant&theme=default&hide_border=true)
-
+![KyiPhyuKhant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyiPhyuKhant&theme=vue-dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
