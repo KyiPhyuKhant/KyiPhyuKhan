@@ -8,9 +8,6 @@
 
 
 ## 📊 GitHub Stats:
-![KyiPhyuKhant's Stats](https://github-readme-stats.vercel.app/api?username=KyiPhyuKhant&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KyiPhyuKhant?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![KyiPhyuKhant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiPhyuKhant&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-![KyiPhyuKhant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyiPhyuKhant&theme=vue-dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
