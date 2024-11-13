@@ -23,9 +23,9 @@
 
 ## 📈 GitHub Stats:
 
-| GitHub Stats | GitHub Streak | Top Languages |
-|--------------|---------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyiPhyuKhant&show_icons=true&count_private=true&hide=prs&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyiPhyuKhant&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiPhyuKhant&layout=compact&theme=radical) |
+| GitHub Stats | GitHub Streak |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyiPhyuKhant&show_icons=true&count_private=true&hide=prs&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyiPhyuKhant&theme=radical) |
 
 
 ## 💬 Let’s Connect!
