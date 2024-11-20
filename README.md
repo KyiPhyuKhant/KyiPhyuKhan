@@ -27,6 +27,7 @@
 |--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyiPhyuKhant&show_icons=true&count_private=true&hide=prs&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyiPhyuKhant&theme=radical) |
 
+[![](https://visitcount.itsvg.in/api?id=KyiPhyuKhant&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💬 Let’s Connect!
 Feel free to reach out if you'd like to collaborate or chat about tech. Let’s build something amazing together!
